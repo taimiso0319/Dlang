@@ -2,10 +2,7 @@ import node;
 
 class BST{
     Node root;
-    this(){
-        root = null;
-    }
-
+    this(){ root = null; }
     bool insert(int n){
         if(root is null){
             root = new Node(n);
