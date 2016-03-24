@@ -1,5 +1,5 @@
 import std.stdio;
-import bst;
+import BST;
 
 void main(){
     BST bst = new BST();

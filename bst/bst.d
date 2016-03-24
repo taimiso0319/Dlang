@@ -1,4 +1,4 @@
-import node;
+import Node;
 
 class BST{
     Node root;
